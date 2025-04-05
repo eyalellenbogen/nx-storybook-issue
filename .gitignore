@@ -42,3 +42,9 @@ Thumbs.db
 .nx/workspace-data
 
 .angular
+
+
+storybook-static
+
+# ---- THIS BREAKS build-storybook ------
+package-lock.json
